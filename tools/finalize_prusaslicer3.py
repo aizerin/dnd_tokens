@@ -6,6 +6,7 @@ from __future__ import annotations
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 from pathlib import Path
+import re
 import subprocess
 from zipfile import ZipFile
 
@@ -33,7 +34,9 @@ def validate(path: Path, count: int) -> None:
 
 
 def finalize(path: Path) -> str:
-    count = expected_count(path.parent.parent)
+    category_name = re.sub(r"-\d+-tokens-prusaslicer-3\.0\.3mf$", "", path.name)
+    category = ROOT / category_name
+    count = expected_count(category)
     temporary = path.with_name(path.stem + ".native-tmp.3mf")
     result = subprocess.run(
         [
@@ -52,11 +55,11 @@ def finalize(path: Path) -> str:
         raise RuntimeError(f"{path}: PrusaSlicer returned {result.returncode}\n{result.stdout}")
     validate(temporary, count)
     temporary.replace(path)
-    return path.parent.parent.name
+    return category_name
 
 
 def main() -> None:
-    paths = sorted(ROOT.glob("*/3mf/*-prusaslicer-3.0.3mf"))
+    paths = sorted((ROOT / "3mf-slicer-3.0").glob("*-tokens-prusaslicer-3.0.3mf"))
     failures: list[str] = []
     with ThreadPoolExecutor(max_workers=2) as pool:
         jobs = {pool.submit(finalize, path): path for path in paths}

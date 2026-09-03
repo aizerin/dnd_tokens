@@ -29,11 +29,10 @@ def expected_count(category: Path) -> int:
 def audit(category: Path) -> list[str]:
     errors: list[str] = []
     count = expected_count(category)
-    originals = list((category / "3mf").glob("*-tokens.3mf"))
-    outputs = list((category / "3mf").glob("*-tokens-prusaslicer-3.0.3mf"))
-    if len(originals) != 1 or len(outputs) != 1:
-        return [f"{category.name}: expected one production original and one production 3.0 file"]
-    output = outputs[0]
+    original = ROOT / "3mf-slicer-2.9" / f"{category.name}-{count}-tokens.3mf"
+    output = ROOT / "3mf-slicer-3.0" / f"{category.name}-{count}-tokens-prusaslicer-3.0.3mf"
+    if not original.is_file() or not output.is_file():
+        return [f"{category.name}: missing production 2.9 or 3.0 project"]
 
     with ZipFile(output) as archive:
         names = set(archive.namelist())

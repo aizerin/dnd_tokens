@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 import tempfile
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -13,7 +14,7 @@ from make_prusaslicer3_8t import centered_positions, build as build_ps3
 
 
 ROOT = Path("/Users/lukas/dev/projects/dnd-tokens")
-TEMPLATE = ROOT / "goblins/3mf/goblins-4-tokens-prusaslicer-3.0-8t-profile-cli-test.3mf"
+TEMPLATE = ROOT / "3mf-slicer-3.0/goblins-4-tokens-prusaslicer-3.0.3mf"
 CORE = "http://schemas.microsoft.com/3dmanufacturing/core/2015/02"
 ET.register_namespace("", CORE)
 NS = {"m": CORE}
@@ -98,14 +99,18 @@ def validate_new(path: Path, expected: int) -> None:
             raise ValueError(f"Validation tool assignment failed for {path}: {tools}")
 
 
+def category_name(path: Path) -> str:
+    return re.sub(r"-\d+-tokens(?:-prusaslicer-3\.0)?\.3mf$", "", path.name)
+
+
 def main() -> None:
-    old_paths = sorted(ROOT.glob("*/3mf/*-tokens.3mf"))
-    new_paths = sorted(ROOT.glob("*/3mf/*-tokens-prusaslicer-3.0.3mf"))
+    old_paths = sorted((ROOT / "3mf-slicer-2.9").glob("*-tokens.3mf"))
+    new_paths = sorted((ROOT / "3mf-slicer-3.0").glob("*-tokens-prusaslicer-3.0.3mf"))
     if len(old_paths) != len(new_paths):
         raise ValueError(f"Project count mismatch: {len(old_paths)} old, {len(new_paths)} new")
 
-    old_categories = {p.parent.parent.name for p in old_paths}
-    new_categories = {p.parent.parent.name for p in new_paths}
+    old_categories = {category_name(p) for p in old_paths}
+    new_categories = {category_name(p) for p in new_paths}
     if old_categories != new_categories:
         raise ValueError("Old/new category sets do not match")
 
@@ -115,16 +120,18 @@ def main() -> None:
         counts: dict[str, int] = {}
 
         for source in old_paths:
-            output = staging / f"old-{source.parent.parent.name}.3mf"
+            name = category_name(source)
+            output = staging / f"old-{name}.3mf"
             count = update_old_project(source, output)
             validate_old(output, count)
-            counts[source.parent.parent.name] = count
+            counts[name] = count
             staged.append((output, source))
 
         for source in new_paths:
-            output = staging / f"new-{source.parent.parent.name}.3mf"
+            name = category_name(source)
+            output = staging / f"new-{name}.3mf"
             build_ps3(source, output, TEMPLATE, base_tool=2)
-            validate_new(output, counts[source.parent.parent.name])
+            validate_new(output, counts[name])
             staged.append((output, source))
 
         for output, destination in staged:

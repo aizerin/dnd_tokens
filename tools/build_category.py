@@ -22,6 +22,7 @@ RENDERER = Path("/Users/lukas/dev/projects/dnd-tokens/tools/render_category_prev
 OPENSCAD = Path("/opt/homebrew/bin/openscad")
 SLICER = Path("/Applications/PrusaSlicer.app/Contents/MacOS/PrusaSlicer")
 WORK_ROOT = Path("/Users/lukas/Documents/Codex/2026-07-19/referenced-chatgpt-conversation-this-is-untrusted/work/dnd-tokens")
+PROJECT_ROOT = Path("/Users/lukas/dev/projects/dnd-tokens")
 
 
 def run(command: list[str], *, quiet: bool = False) -> subprocess.CompletedProcess[str]:
@@ -162,7 +163,7 @@ def main() -> None:
         raise SystemExit("The manifest must contain at least one entry")
 
     svg_dir = category / "svg"
-    three_mf_dir = category / "3mf"
+    three_mf_dir = PROJECT_ROOT / "3mf-slicer-2.9"
     preview_dir = category / "previews"
     work = WORK_ROOT / category.name
     stl_dir = work / "stl"

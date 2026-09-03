@@ -6,15 +6,18 @@ Each category uses the same structure:
 
 - `source/` — original black-and-white PNG artwork;
 - `svg/` — traced vector artwork;
-- `3mf/` — ready-to-print category plate;
 - `previews/` — labelled visual overview;
 - `manifest.json` — token names and roles;
 - `README.md` — category contents and printing notes.
 
-Each `3mf/` directory contains two project variants:
+All ready-to-print projects are collected in two directories at the repository root:
 
-- `*-tokens.3mf` — original PrusaSlicer 2.9 project;
-- `*-tokens-prusaslicer-3.0.3mf` — native PrusaSlicer 3.0 project using the new JSON project schema.
+- `3mf-slicer-2.9/` — 77 projects for PrusaSlicer 2.9;
+- `3mf-slicer-3.0/` — 77 native PrusaSlicer 3.0 projects using the new JSON project schema.
+
+The 3MF projects are made for the **Prusa CORE One INDX**. The PrusaSlicer 3.0
+projects contain the **CORE One INDX 8T** printer configuration. The base is
+assigned to tool 2 and the artwork plus perimeter ring to tool 1.
 
 ## Categories
 
@@ -110,4 +113,21 @@ Each `3mf/` directory contains two project variants:
 
 The original 3MF files have been checked with PrusaSlicer 2.9.6. All 3.0 variants have
 been checked with PrusaSlicer 3.0.0-alpha11, including object count, manifold geometry,
-25 × 25 × 1 mm dimensions, two volumes per token, and E4/E1 assignments.
+25 × 25 × 1 mm dimensions, two volumes per token, and E2/E1 assignments.
+
+## License
+
+Except where otherwise noted, this collection is licensed under
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.md)
+(CC BY-NC-SA 4.0).
+
+You may share and adapt the collection with attribution for noncommercial
+purposes. Adaptations must use the same license. Commercial use, including the
+sale of digital files or printed tokens, requires separate permission from the
+applicable rights holder.
+
+Because the license prohibits commercial use, this project is more precisely
+described as **source-available** rather than OSI-approved open source.
+
+The license covers only original contributions to this repository. Third-party
+names, trademarks, characters, and other protected material are not licensed.
