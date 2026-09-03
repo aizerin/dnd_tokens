@@ -2,6 +2,8 @@
 
 This project contains compact, double-sided, two-colour tabletop tokens organised by creature category.
 
+![Complete preview of all 355 fantasy tokens](previews/all-tokens-preview.png)
+
 Each category uses the same structure:
 
 - `source/` — original black-and-white PNG artwork;
