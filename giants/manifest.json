@@ -1,0 +1,6 @@
+[
+  {"slug":"hill-giant","name":"Hill Giant","role":"brute"},
+  {"slug":"stone-giant","name":"Stone Giant","role":"ranged"},
+  {"slug":"frost-giant","name":"Frost Giant","role":"warrior"},
+  {"slug":"fire-giant","name":"Fire Giant","role":"elite"}
+]

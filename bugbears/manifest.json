@@ -1,0 +1,6 @@
+[
+  {"slug":"bugbear-warrior","name":"Bugbear Warrior","role":"melee"},
+  {"slug":"bugbear-ambusher","name":"Bugbear Ambusher","role":"skirmisher"},
+  {"slug":"bugbear-chief","name":"Bugbear Chief","role":"leader"},
+  {"slug":"bugbear-shaman","name":"Bugbear Shaman","role":"caster"}
+]

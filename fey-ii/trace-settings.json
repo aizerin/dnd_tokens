@@ -1,0 +1,22 @@
+{
+  "sprite": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 0.75
+  },
+  "blink-dog": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "darkling": {
+    "trace_size": 256,
+    "threshold": 130,
+    "simplify": 1.0
+  },
+  "sea-hag": {
+    "trace_size": 256,
+    "threshold": 130,
+    "simplify": 0.75
+  }
+}

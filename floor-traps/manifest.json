@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "pit-trap",
+    "name": "Pit Trap",
+    "role": "trap"
+  },
+  {
+    "slug": "spike-pit",
+    "name": "Spike Pit",
+    "role": "trap"
+  },
+  {
+    "slug": "pressure-plate",
+    "name": "Pressure Plate",
+    "role": "trigger"
+  },
+  {
+    "slug": "collapsing-floor",
+    "name": "Collapsing Floor",
+    "role": "trap"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {"slug":"cave-troll","name":"Cave Troll","role":"brute"},
+  {"slug":"forest-troll","name":"Forest Troll","role":"hunter"},
+  {"slug":"swamp-troll","name":"Swamp Troll","role":"controller"},
+  {"slug":"troll-witch","name":"Troll Witch","role":"caster"}
+]

@@ -1,0 +1,6 @@
+[
+  {"slug":"apprentice-wizard","name":"Apprentice Wizard","role":"utility"},
+  {"slug":"hedge-wizard","name":"Hedge Wizard","role":"support"},
+  {"slug":"battle-mage","name":"Battle Mage","role":"offense"},
+  {"slug":"court-wizard","name":"Court Wizard","role":"controller"}
+]

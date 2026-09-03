@@ -1,0 +1,6 @@
+[
+  {"slug":"ogre-brute","name":"Ogre Brute","role":"brute"},
+  {"slug":"ogre-hunter","name":"Ogre Hunter","role":"ranged"},
+  {"slug":"ogre-butcher","name":"Ogre Butcher","role":"melee"},
+  {"slug":"ogre-shaman","name":"Ogre Shaman","role":"caster"}
+]

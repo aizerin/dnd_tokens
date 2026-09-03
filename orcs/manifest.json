@@ -1,0 +1,6 @@
+[
+  {"slug":"orc-raider","name":"Orc Raider","role":"warrior"},
+  {"slug":"orc-archer","name":"Orc Archer","role":"ranged"},
+  {"slug":"orc-chief","name":"Orc Chief","role":"leader"},
+  {"slug":"orc-shaman","name":"Orc Shaman","role":"spellcaster"}
+]

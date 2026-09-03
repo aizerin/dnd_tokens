@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "air-elemental",
+    "name": "Air Elemental",
+    "role": "controller"
+  },
+  {
+    "slug": "earth-elemental",
+    "name": "Earth Elemental",
+    "role": "brute"
+  },
+  {
+    "slug": "fire-elemental",
+    "name": "Fire Elemental",
+    "role": "brute"
+  },
+  {
+    "slug": "water-elemental",
+    "name": "Water Elemental",
+    "role": "controller"
+  }
+]

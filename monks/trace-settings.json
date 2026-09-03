@@ -1,0 +1,22 @@
+{
+  "initiate-monk": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "martial-artist": {
+    "trace_size": 256,
+    "threshold": 175,
+    "simplify": 0.75
+  },
+  "staff-monk": {
+    "trace_size": 256,
+    "threshold": 130,
+    "simplify": 1.0
+  },
+  "monk-master": {
+    "trace_size": 256,
+    "threshold": 205,
+    "simplify": 1.0
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "yuan-ti-pureblood",
+    "name": "Yuan-ti Pureblood",
+    "role": "infiltrator"
+  },
+  {
+    "slug": "yuan-ti-archer",
+    "name": "Yuan-ti Archer",
+    "role": "ranged"
+  },
+  {
+    "slug": "yuan-ti-malison",
+    "name": "Yuan-ti Malison",
+    "role": "brute"
+  },
+  {
+    "slug": "yuan-ti-priest",
+    "name": "Yuan-ti Priest",
+    "role": "priest"
+  }
+]

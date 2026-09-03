@@ -1,0 +1,6 @@
+[
+  {"slug":"goblin-warrior","name":"Goblin Warrior","role":"warrior"},
+  {"slug":"goblin-archer","name":"Goblin Archer","role":"ranged"},
+  {"slug":"goblin-shaman","name":"Goblin Shaman","role":"spellcaster"},
+  {"slug":"goblin-chief","name":"Goblin Chief","role":"leader"}
+]

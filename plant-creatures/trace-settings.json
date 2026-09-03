@@ -1,0 +1,22 @@
+{
+  "twig-blight": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  },
+  "needle-blight": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 1.0
+  },
+  "vine-blight": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "awakened-tree": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  }
+}

@@ -1,0 +1,6 @@
+[
+  {"slug":"dwarf-warrior","name":"Dwarf Warrior","role":"melee"},
+  {"slug":"dwarf-crossbowman","name":"Dwarf Crossbowman","role":"ranged"},
+  {"slug":"dwarf-miner","name":"Dwarf Miner","role":"worker"},
+  {"slug":"dwarf-runesmith","name":"Dwarf Runesmith","role":"support"}
+]

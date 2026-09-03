@@ -1,0 +1,32 @@
+{
+  "blinded": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "deafened": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "paralyzed": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "unconscious": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "concentration": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "burning": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

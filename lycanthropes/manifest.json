@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "wererat",
+    "name": "Wererat",
+    "role": "skirmisher"
+  },
+  {
+    "slug": "wereboar",
+    "name": "Wereboar",
+    "role": "brute"
+  },
+  {
+    "slug": "werebear",
+    "name": "Werebear",
+    "role": "guardian"
+  },
+  {
+    "slug": "jackalwere",
+    "name": "Jackalwere",
+    "role": "ambusher"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {"slug":"animated-armor","name":"Animated Armor","role":"guardian"},
+  {"slug":"flying-sword","name":"Flying Sword","role":"skirmisher"},
+  {"slug":"stone-golem","name":"Stone Golem","role":"brute"},
+  {"slug":"clockwork-guardian","name":"Clockwork Guardian","role":"sentinel"}
+]

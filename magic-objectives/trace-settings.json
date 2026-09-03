@@ -1,0 +1,22 @@
+{
+  "magic-portal": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "ritual-circle": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  },
+  "crystal-orb": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "treasure-pile": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

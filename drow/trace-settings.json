@@ -1,0 +1,22 @@
+{
+  "drow-warrior": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "drow-scout": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "drow-mage": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "drow-priestess": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 0.75
+  }
+}

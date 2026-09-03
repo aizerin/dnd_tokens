@@ -1,0 +1,6 @@
+[
+  {"slug":"lizardfolk-warrior","name":"Lizardfolk Warrior","role":"melee"},
+  {"slug":"lizardfolk-hunter","name":"Lizardfolk Hunter","role":"ranged"},
+  {"slug":"lizardfolk-brute","name":"Lizardfolk Brute","role":"brute"},
+  {"slug":"lizardfolk-shaman","name":"Lizardfolk Shaman","role":"caster"}
+]

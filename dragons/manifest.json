@@ -1,0 +1,6 @@
+[
+  {"slug": "red-dragon-wyrmling", "name": "Red Dragon Wyrmling", "role": "brute"},
+  {"slug": "blue-dragon-wyrmling", "name": "Blue Dragon Wyrmling", "role": "ambusher"},
+  {"slug": "green-dragon-wyrmling", "name": "Green Dragon Wyrmling", "role": "controller"},
+  {"slug": "white-dragon-wyrmling", "name": "White Dragon Wyrmling", "role": "hunter"}
+]

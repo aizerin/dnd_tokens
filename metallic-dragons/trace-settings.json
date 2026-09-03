@@ -1,0 +1,27 @@
+{
+  "adult-brass-dragon": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  },
+  "adult-bronze-dragon": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "adult-copper-dragon": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "adult-gold-dragon": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "adult-silver-dragon": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  }
+}

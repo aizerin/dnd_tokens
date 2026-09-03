@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "initiate-monk",
+    "name": "Initiate Monk",
+    "role": "skirmisher"
+  },
+  {
+    "slug": "martial-artist",
+    "name": "Martial Artist",
+    "role": "striker"
+  },
+  {
+    "slug": "staff-monk",
+    "name": "Staff Monk",
+    "role": "controller"
+  },
+  {
+    "slug": "monk-master",
+    "name": "Monk Master",
+    "role": "leader"
+  }
+]

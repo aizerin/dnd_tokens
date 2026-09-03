@@ -1,0 +1,6 @@
+[
+  {"slug": "imp", "name": "Imp", "role": "scout"},
+  {"slug": "quasit", "name": "Quasit", "role": "skirmisher"},
+  {"slug": "lemure", "name": "Lemure", "role": "brute"},
+  {"slug": "hell-hound", "name": "Hell Hound", "role": "hunter"}
+]

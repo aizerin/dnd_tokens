@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "giant-eagle",
+    "name": "Giant Eagle",
+    "role": "flyer"
+  },
+  {
+    "slug": "giant-owl",
+    "name": "Giant Owl",
+    "role": "flyer"
+  },
+  {
+    "slug": "giant-hyena",
+    "name": "Giant Hyena",
+    "role": "predator"
+  },
+  {
+    "slug": "panther",
+    "name": "Panther",
+    "role": "predator"
+  }
+]

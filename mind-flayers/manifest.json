@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "mind-flayer",
+    "name": "Mind Flayer",
+    "role": "controller"
+  },
+  {
+    "slug": "mind-flayer-arcanist",
+    "name": "Mind Flayer Arcanist",
+    "role": "mage"
+  },
+  {
+    "slug": "mind-flayer-psion",
+    "name": "Mind Flayer Psion",
+    "role": "controller"
+  },
+  {
+    "slug": "ulitharid",
+    "name": "Ulitharid",
+    "role": "boss"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "berserker": {
+    "trace_size": 256,
+    "threshold": 190,
+    "simplify": 1.0
+  },
+  "raider-barbarian": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 1.0
+  },
+  "totem-warrior": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "barbarian-chieftain": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 0.75
+  }
+}

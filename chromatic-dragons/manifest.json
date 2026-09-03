@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "adult-black-dragon",
+    "name": "Adult Black Dragon",
+    "role": "boss"
+  },
+  {
+    "slug": "adult-blue-dragon",
+    "name": "Adult Blue Dragon",
+    "role": "boss"
+  },
+  {
+    "slug": "adult-green-dragon",
+    "name": "Adult Green Dragon",
+    "role": "boss"
+  },
+  {
+    "slug": "adult-red-dragon",
+    "name": "Adult Red Dragon",
+    "role": "boss"
+  },
+  {
+    "slug": "adult-white-dragon",
+    "name": "Adult White Dragon",
+    "role": "boss"
+  }
+]

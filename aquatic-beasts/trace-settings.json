@@ -1,0 +1,22 @@
+{
+  "giant-crab": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "giant-octopus": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "reef-shark": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "crocodile": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

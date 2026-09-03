@@ -1,0 +1,22 @@
+{
+  "cave-troll": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "forest-troll": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "swamp-troll": {
+    "trace_size": 256,
+    "threshold": 190,
+    "simplify": 0.75
+  },
+  "troll-witch": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  }
+}

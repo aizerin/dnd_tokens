@@ -1,0 +1,22 @@
+{
+  "darkmantle": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "flumph": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "grick": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "gibbering-mouther": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

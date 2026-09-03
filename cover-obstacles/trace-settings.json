@@ -1,0 +1,22 @@
+{
+  "table": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "bookshelf": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "barricade": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "rubble-pile": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

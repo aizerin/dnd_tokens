@@ -1,0 +1,22 @@
+{
+  "duergar-warrior": {
+    "trace_size": 256,
+    "threshold": 130,
+    "simplify": 1.0
+  },
+  "duergar-crossbowman": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 1.0
+  },
+  "duergar-overseer": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 1.0
+  },
+  "duergar-runesmith": {
+    "trace_size": 320,
+    "threshold": 145,
+    "simplify": 1.0
+  }
+}

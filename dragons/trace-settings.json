@@ -1,0 +1,22 @@
+{
+  "red-dragon-wyrmling": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "blue-dragon-wyrmling": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "green-dragon-wyrmling": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "white-dragon-wyrmling": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  }
+}

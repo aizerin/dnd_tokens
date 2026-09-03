@@ -1,0 +1,22 @@
+{
+  "lizardfolk-warrior": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 1.0
+  },
+  "lizardfolk-hunter": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 0.5
+  },
+  "lizardfolk-brute": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.5
+  },
+  "lizardfolk-shaman": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  }
+}

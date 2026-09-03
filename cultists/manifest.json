@@ -1,0 +1,6 @@
+[
+  {"slug":"koschei-cultist","name":"Koschei Cultist","role":"acolyte"},
+  {"slug":"cultist-guard","name":"Cultist Guard","role":"defender"},
+  {"slug":"cultist-mage","name":"Cultist Mage","role":"caster"},
+  {"slug":"cult-leader","name":"Cult Leader","role":"leader"}
+]

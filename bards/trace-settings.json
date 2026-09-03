@@ -1,0 +1,22 @@
+{
+  "minstrel": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 1.0
+  },
+  "skald": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "court-bard": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 1.0
+  },
+  "battle-bard": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  }
+}

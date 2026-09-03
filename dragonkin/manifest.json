@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "black-dragon-wyrmling",
+    "name": "Black Dragon Wyrmling",
+    "role": "controller"
+  },
+  {
+    "slug": "pseudodragon",
+    "name": "Pseudodragon",
+    "role": "companion"
+  },
+  {
+    "slug": "faerie-dragon",
+    "name": "Faerie Dragon",
+    "role": "support"
+  },
+  {
+    "slug": "wyvern",
+    "name": "Wyvern",
+    "role": "brute"
+  }
+]

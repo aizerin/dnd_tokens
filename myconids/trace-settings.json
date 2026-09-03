@@ -1,0 +1,22 @@
+{
+  "myconid-sprout": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "myconid-adult": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "myconid-guard": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 1.0
+  },
+  "myconid-sovereign": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  }
+}

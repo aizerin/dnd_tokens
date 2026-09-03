@@ -1,0 +1,22 @@
+{
+  "thief": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 0.75
+  },
+  "assassin": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 1.0
+  },
+  "scout-rogue": {
+    "trace_size": 256,
+    "threshold": 190,
+    "simplify": 1.0
+  },
+  "swashbuckler": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  }
+}

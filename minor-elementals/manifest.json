@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "dust-mephit",
+    "name": "Dust Mephit",
+    "role": "controller"
+  },
+  {
+    "slug": "ice-mephit",
+    "name": "Ice Mephit",
+    "role": "skirmisher"
+  },
+  {
+    "slug": "magma-mephit",
+    "name": "Magma Mephit",
+    "role": "brute"
+  },
+  {
+    "slug": "steam-mephit",
+    "name": "Steam Mephit",
+    "role": "support"
+  }
+]

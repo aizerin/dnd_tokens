@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "draconic-sorcerer",
+    "name": "Draconic Sorcerer",
+    "role": "brute"
+  },
+  {
+    "slug": "wild-magic-sorcerer",
+    "name": "Wild Magic Sorcerer",
+    "role": "controller"
+  },
+  {
+    "slug": "storm-sorcerer",
+    "name": "Storm Sorcerer",
+    "role": "controller"
+  },
+  {
+    "slug": "shadow-sorcerer",
+    "name": "Shadow Sorcerer",
+    "role": "striker"
+  }
+]

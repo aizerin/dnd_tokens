@@ -1,0 +1,6 @@
+[
+  {"slug":"gelatinous-cube","name":"Gelatinous Cube","role":"controller"},
+  {"slug":"gray-ooze","name":"Gray Ooze","role":"ambusher"},
+  {"slug":"ochre-jelly","name":"Ochre Jelly","role":"skirmisher"},
+  {"slug":"black-pudding","name":"Black Pudding","role":"brute"}
+]

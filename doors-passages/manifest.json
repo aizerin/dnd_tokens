@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "wooden-door",
+    "name": "Wooden Door",
+    "role": "passage"
+  },
+  {
+    "slug": "iron-door",
+    "name": "Iron Door",
+    "role": "passage"
+  },
+  {
+    "slug": "secret-door",
+    "name": "Secret Door",
+    "role": "passage"
+  },
+  {
+    "slug": "trapdoor",
+    "name": "Trapdoor",
+    "role": "passage"
+  }
+]

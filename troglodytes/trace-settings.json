@@ -1,0 +1,22 @@
+{
+  "troglodyte-hunter": {
+    "trace_size": 256,
+    "threshold": 130,
+    "simplify": 0.75
+  },
+  "troglodyte-warrior": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "troglodyte-brute": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 0.75
+  },
+  "troglodyte-shaman": {
+    "trace_size": 256,
+    "threshold": 190,
+    "simplify": 0.75
+  }
+}

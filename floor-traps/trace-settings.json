@@ -1,0 +1,22 @@
+{
+  "pit-trap": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "spike-pit": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  },
+  "pressure-plate": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "collapsing-floor": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

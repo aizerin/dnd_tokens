@@ -1,0 +1,22 @@
+{
+  "fiend-pact-warlock": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  },
+  "fey-pact-warlock": {
+    "trace_size": 320,
+    "threshold": 100,
+    "simplify": 1.0
+  },
+  "eldritch-pact-warlock": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "hexblade-warlock": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  }
+}

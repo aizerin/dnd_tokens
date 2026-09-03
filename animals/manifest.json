@@ -1,0 +1,11 @@
+[
+  {"slug":"wolf","name":"Wolf","role":"pack hunter"},
+  {"slug":"bear","name":"Bear","role":"brute"},
+  {"slug":"boar","name":"Boar","role":"charger"},
+  {"slug":"giant-rat","name":"Giant Rat","role":"scavenger"},
+  {"slug":"giant-spider","name":"Giant Spider","role":"web ambusher"},
+  {"slug":"giant-snake","name":"Giant Snake","role":"constrictor"},
+  {"slug":"giant-bat","name":"Giant Bat","role":"flying hunter"},
+  {"slug":"giant-scorpion","name":"Giant Scorpion","role":"armoured striker"},
+  {"slug":"giant-toad","name":"Giant Toad","role":"swallowing predator"}
+]

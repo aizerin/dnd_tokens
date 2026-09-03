@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "ankheg",
+    "name": "Ankheg",
+    "role": "ambusher"
+  },
+  {
+    "slug": "ettercap",
+    "name": "Ettercap",
+    "role": "controller"
+  },
+  {
+    "slug": "displacer-beast",
+    "name": "Displacer Beast",
+    "role": "skirmisher"
+  },
+  {
+    "slug": "manticore",
+    "name": "Manticore",
+    "role": "brute"
+  }
+]

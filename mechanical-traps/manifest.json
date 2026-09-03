@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "dart-trap",
+    "name": "Dart Trap",
+    "role": "trap"
+  },
+  {
+    "slug": "swinging-blade",
+    "name": "Swinging Blade",
+    "role": "trap"
+  },
+  {
+    "slug": "falling-net",
+    "name": "Falling Net",
+    "role": "trap"
+  },
+  {
+    "slug": "crushing-walls",
+    "name": "Crushing Walls",
+    "role": "trap"
+  }
+]

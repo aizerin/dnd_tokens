@@ -1,0 +1,22 @@
+{
+  "kuo-toa-warrior": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "kuo-toa-netter": {
+    "trace_size": 320,
+    "threshold": 175,
+    "simplify": 1.0
+  },
+  "kuo-toa-monitor": {
+    "trace_size": 320,
+    "threshold": 130,
+    "simplify": 1.0
+  },
+  "kuo-toa-priest": {
+    "trace_size": 384,
+    "threshold": 130,
+    "simplify": 0.75
+  }
+}

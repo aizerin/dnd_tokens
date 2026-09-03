@@ -1,0 +1,22 @@
+{
+  "black-dragon-wyrmling": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "pseudodragon": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 0.75
+  },
+  "faerie-dragon": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "wyvern": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 1.0
+  }
+}

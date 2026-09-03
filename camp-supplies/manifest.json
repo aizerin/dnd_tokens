@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "campfire",
+    "name": "Campfire",
+    "role": "feature"
+  },
+  {
+    "slug": "tent",
+    "name": "Tent",
+    "role": "feature"
+  },
+  {
+    "slug": "bedroll",
+    "name": "Bedroll",
+    "role": "object"
+  },
+  {
+    "slug": "supply-cart",
+    "name": "Supply Cart",
+    "role": "object"
+  }
+]

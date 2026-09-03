@@ -1,0 +1,6 @@
+[
+  {"slug":"elf-warrior","name":"Elf Warrior","role":"melee"},
+  {"slug":"elf-archer","name":"Elf Archer","role":"ranged"},
+  {"slug":"elf-spearman","name":"Elf Spearman","role":"reach"},
+  {"slug":"elf-mage","name":"Elf Mage","role":"caster"}
+]

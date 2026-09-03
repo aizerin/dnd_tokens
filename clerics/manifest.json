@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "healer-cleric",
+    "name": "Healer Cleric",
+    "role": "healer"
+  },
+  {
+    "slug": "battle-cleric",
+    "name": "Battle Cleric",
+    "role": "defender"
+  },
+  {
+    "slug": "sun-cleric",
+    "name": "Sun Cleric",
+    "role": "support"
+  },
+  {
+    "slug": "grave-cleric",
+    "name": "Grave Cleric",
+    "role": "controller"
+  }
+]

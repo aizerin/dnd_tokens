@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "blinded",
+    "name": "Blinded",
+    "role": "condition marker"
+  },
+  {
+    "slug": "deafened",
+    "name": "Deafened",
+    "role": "condition marker"
+  },
+  {
+    "slug": "paralyzed",
+    "name": "Paralyzed",
+    "role": "condition marker"
+  },
+  {
+    "slug": "unconscious",
+    "name": "Unconscious",
+    "role": "condition marker"
+  },
+  {
+    "slug": "concentration",
+    "name": "Concentration",
+    "role": "condition marker"
+  },
+  {
+    "slug": "burning",
+    "name": "Burning",
+    "role": "condition marker"
+  }
+]

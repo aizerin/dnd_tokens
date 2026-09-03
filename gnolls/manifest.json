@@ -1,0 +1,6 @@
+[
+  {"slug":"gnoll-hunter","name":"Gnoll Hunter","role":"ranged"},
+  {"slug":"gnoll-warrior","name":"Gnoll Warrior","role":"melee"},
+  {"slug":"gnoll-shaman","name":"Gnoll Shaman","role":"controller"},
+  {"slug":"gnoll-pack-leader","name":"Gnoll Pack Leader","role":"leader"}
+]

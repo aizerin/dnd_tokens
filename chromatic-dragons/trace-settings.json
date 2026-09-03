@@ -1,0 +1,27 @@
+{
+  "adult-black-dragon": {
+    "trace_size": 256,
+    "threshold": 130,
+    "simplify": 0.75
+  },
+  "adult-blue-dragon": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "adult-green-dragon": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "adult-red-dragon": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "adult-white-dragon": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

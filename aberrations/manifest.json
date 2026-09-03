@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "darkmantle",
+    "name": "Darkmantle",
+    "role": "ambusher"
+  },
+  {
+    "slug": "flumph",
+    "name": "Flumph",
+    "role": "support"
+  },
+  {
+    "slug": "grick",
+    "name": "Grick",
+    "role": "predator"
+  },
+  {
+    "slug": "gibbering-mouther",
+    "name": "Gibbering Mouther",
+    "role": "controller"
+  }
+]

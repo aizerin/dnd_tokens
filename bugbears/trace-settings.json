@@ -1,0 +1,22 @@
+{
+  "bugbear-warrior": {
+    "trace_size": 320,
+    "threshold": 175,
+    "simplify": 0.75
+  },
+  "bugbear-ambusher": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "bugbear-chief": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "bugbear-shaman": {
+    "trace_size": 256,
+    "threshold": 205,
+    "simplify": 1.0
+  }
+}

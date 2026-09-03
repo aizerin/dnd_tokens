@@ -1,0 +1,22 @@
+{
+  "pixie": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "dryad": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "satyr": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "redcap": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  }
+}

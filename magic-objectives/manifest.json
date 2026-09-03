@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "magic-portal",
+    "name": "Magic Portal",
+    "role": "objective"
+  },
+  {
+    "slug": "ritual-circle",
+    "name": "Ritual Circle",
+    "role": "objective"
+  },
+  {
+    "slug": "crystal-orb",
+    "name": "Crystal Orb",
+    "role": "objective"
+  },
+  {
+    "slug": "treasure-pile",
+    "name": "Treasure Pile",
+    "role": "loot"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "sprite",
+    "name": "Sprite",
+    "role": "scout"
+  },
+  {
+    "slug": "blink-dog",
+    "name": "Blink Dog",
+    "role": "support"
+  },
+  {
+    "slug": "darkling",
+    "name": "Darkling",
+    "role": "skirmisher"
+  },
+  {
+    "slug": "sea-hag",
+    "name": "Sea Hag",
+    "role": "controller"
+  }
+]

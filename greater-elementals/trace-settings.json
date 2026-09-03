@@ -1,0 +1,22 @@
+{
+  "air-elemental": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 1.0
+  },
+  "earth-elemental": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.5
+  },
+  "fire-elemental": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "water-elemental": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  }
+}

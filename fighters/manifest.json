@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "sword-shield-fighter",
+    "name": "Sword & Shield Fighter",
+    "role": "defender"
+  },
+  {
+    "slug": "greatsword-fighter",
+    "name": "Greatsword Fighter",
+    "role": "brute"
+  },
+  {
+    "slug": "spear-fighter",
+    "name": "Spear Fighter",
+    "role": "controller"
+  },
+  {
+    "slug": "crossbow-fighter",
+    "name": "Crossbow Fighter",
+    "role": "ranged"
+  }
+]

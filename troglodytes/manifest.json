@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "troglodyte-hunter",
+    "name": "Troglodyte Hunter",
+    "role": "hunter"
+  },
+  {
+    "slug": "troglodyte-warrior",
+    "name": "Troglodyte Warrior",
+    "role": "warrior"
+  },
+  {
+    "slug": "troglodyte-brute",
+    "name": "Troglodyte Brute",
+    "role": "brute"
+  },
+  {
+    "slug": "troglodyte-shaman",
+    "name": "Troglodyte Shaman",
+    "role": "shaman"
+  }
+]

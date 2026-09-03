@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "archer-ranger",
+    "name": "Archer Ranger",
+    "role": "ranged"
+  },
+  {
+    "slug": "beastmaster-ranger",
+    "name": "Beastmaster Ranger",
+    "role": "support"
+  },
+  {
+    "slug": "monster-hunter-ranger",
+    "name": "Monster Hunter Ranger",
+    "role": "striker"
+  },
+  {
+    "slug": "warden-ranger",
+    "name": "Warden Ranger",
+    "role": "defender"
+  }
+]

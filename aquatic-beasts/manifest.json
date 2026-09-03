@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "giant-crab",
+    "name": "Giant Crab",
+    "role": "brute"
+  },
+  {
+    "slug": "giant-octopus",
+    "name": "Giant Octopus",
+    "role": "controller"
+  },
+  {
+    "slug": "reef-shark",
+    "name": "Reef Shark",
+    "role": "predator"
+  },
+  {
+    "slug": "crocodile",
+    "name": "Crocodile",
+    "role": "predator"
+  }
+]

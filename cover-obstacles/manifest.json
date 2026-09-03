@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "table",
+    "name": "Table",
+    "role": "cover"
+  },
+  {
+    "slug": "bookshelf",
+    "name": "Bookshelf",
+    "role": "cover"
+  },
+  {
+    "slug": "barricade",
+    "name": "Barricade",
+    "role": "cover"
+  },
+  {
+    "slug": "rubble-pile",
+    "name": "Rubble Pile",
+    "role": "obstacle"
+  }
+]

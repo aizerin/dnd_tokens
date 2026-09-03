@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "treasure-chest",
+    "name": "Treasure Chest",
+    "role": "loot"
+  },
+  {
+    "slug": "locked-chest",
+    "name": "Locked Chest",
+    "role": "object"
+  },
+  {
+    "slug": "barrel",
+    "name": "Barrel",
+    "role": "object"
+  },
+  {
+    "slug": "crate",
+    "name": "Crate",
+    "role": "object"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "crawling-claw",
+    "name": "Crawling Claw",
+    "role": "minion"
+  },
+  {
+    "slug": "shadow",
+    "name": "Shadow",
+    "role": "ambusher"
+  },
+  {
+    "slug": "specter",
+    "name": "Specter",
+    "role": "controller"
+  },
+  {
+    "slug": "wraith",
+    "name": "Wraith",
+    "role": "brute"
+  }
+]

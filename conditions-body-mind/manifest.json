@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "poisoned",
+    "name": "Poisoned",
+    "role": "condition marker"
+  },
+  {
+    "slug": "stunned",
+    "name": "Stunned",
+    "role": "condition marker"
+  },
+  {
+    "slug": "prone",
+    "name": "Prone",
+    "role": "condition marker"
+  },
+  {
+    "slug": "restrained",
+    "name": "Restrained",
+    "role": "condition marker"
+  },
+  {
+    "slug": "frightened",
+    "name": "Frightened",
+    "role": "condition marker"
+  },
+  {
+    "slug": "charmed",
+    "name": "Charmed",
+    "role": "condition marker"
+  }
+]

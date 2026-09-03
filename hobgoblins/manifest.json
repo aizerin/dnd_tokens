@@ -1,0 +1,7 @@
+[
+  {"slug":"hobgoblin-soldier","name":"Hobgoblin Soldier","role":"defender"},
+  {"slug":"hobgoblin-spearman","name":"Hobgoblin Spearman","role":"reach"},
+  {"slug":"hobgoblin-archer","name":"Hobgoblin Archer","role":"ranged"},
+  {"slug":"hobgoblin-captain","name":"Hobgoblin Captain","role":"leader"}
+]
+

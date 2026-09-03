@@ -1,0 +1,6 @@
+[
+  {"slug":"pixie","name":"Pixie","role":"support"},
+  {"slug":"dryad","name":"Dryad","role":"controller"},
+  {"slug":"satyr","name":"Satyr","role":"skirmisher"},
+  {"slug":"redcap","name":"Redcap","role":"melee"}
+]

@@ -1,0 +1,21 @@
+[
+  {"slug":"baba-yaga","name":"Baba Yaga"},
+  {"slug":"will-o-the-wisp","name":"Will-o-the-Wisp"},
+  {"slug":"slavic-devil","name":"Slavic Devil"},
+  {"slug":"wild-woman","name":"Wild Woman"},
+  {"slug":"domovoi","name":"Domovoi"},
+  {"slug":"hejkal","name":"Hejkal"},
+  {"slug":"jezinka","name":"Jezinka"},
+  {"slug":"kikimora","name":"Kikimora"},
+  {"slug":"twilight-hag","name":"Twilight Hag"},
+  {"slug":"koschei","name":"Koschei"},
+  {"slug":"leshy","name":"Leshy"},
+  {"slug":"nightmare-spirit","name":"Nightmare Spirit"},
+  {"slug":"mine-spirit","name":"Mine Spirit"},
+  {"slug":"lady-midday","name":"Lady Midday"},
+  {"slug":"rusalka","name":"Rusalka"},
+  {"slug":"house-imp","name":"House Imp"},
+  {"slug":"forest-fairy","name":"Forest Fairy"},
+  {"slug":"werewolf","name":"Werewolf"},
+  {"slug":"water-goblin","name":"Water Goblin"}
+]

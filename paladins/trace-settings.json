@@ -1,0 +1,22 @@
+{
+  "guardian-paladin": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "crusader-paladin": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 1.0
+  },
+  "oathkeeper-paladin": {
+    "trace_size": 256,
+    "threshold": 175,
+    "simplify": 0.75
+  },
+  "avenger-paladin": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  }
+}

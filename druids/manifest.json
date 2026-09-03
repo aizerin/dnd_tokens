@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "herbalist-druid",
+    "name": "Herbalist Druid",
+    "role": "healer"
+  },
+  {
+    "slug": "shapeshifter-druid",
+    "name": "Shapeshifter Druid",
+    "role": "brute"
+  },
+  {
+    "slug": "forest-druid",
+    "name": "Forest Druid",
+    "role": "controller"
+  },
+  {
+    "slug": "archdruid",
+    "name": "Archdruid",
+    "role": "leader"
+  }
+]

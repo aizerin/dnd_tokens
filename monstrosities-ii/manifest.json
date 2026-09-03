@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "cockatrice",
+    "name": "Cockatrice",
+    "role": "skirmisher"
+  },
+  {
+    "slug": "harpy",
+    "name": "Harpy",
+    "role": "controller"
+  },
+  {
+    "slug": "centaur",
+    "name": "Centaur",
+    "role": "warrior"
+  },
+  {
+    "slug": "hippogriff",
+    "name": "Hippogriff",
+    "role": "mount"
+  }
+]

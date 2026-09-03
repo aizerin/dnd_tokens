@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "thief",
+    "name": "Thief",
+    "role": "infiltrator"
+  },
+  {
+    "slug": "assassin",
+    "name": "Assassin",
+    "role": "striker"
+  },
+  {
+    "slug": "scout-rogue",
+    "name": "Scout",
+    "role": "scout"
+  },
+  {
+    "slug": "swashbuckler",
+    "name": "Swashbuckler",
+    "role": "duelist"
+  }
+]

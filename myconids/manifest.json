@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "myconid-sprout",
+    "name": "Myconid Sprout",
+    "role": "minion"
+  },
+  {
+    "slug": "myconid-adult",
+    "name": "Myconid Adult",
+    "role": "support"
+  },
+  {
+    "slug": "myconid-guard",
+    "name": "Myconid Guard",
+    "role": "warrior"
+  },
+  {
+    "slug": "myconid-sovereign",
+    "name": "Myconid Sovereign",
+    "role": "leader"
+  }
+]

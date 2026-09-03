@@ -1,0 +1,6 @@
+[
+  {"slug":"duergar-warrior","name":"Duergar Warrior","role":"warrior"},
+  {"slug":"duergar-crossbowman","name":"Duergar Crossbowman","role":"ranged"},
+  {"slug":"duergar-overseer","name":"Duergar Overseer","role":"leader"},
+  {"slug":"duergar-runesmith","name":"Duergar Runesmith","role":"support"}
+]

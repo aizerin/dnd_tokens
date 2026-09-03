@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "altar",
+    "name": "Altar",
+    "role": "feature"
+  },
+  {
+    "slug": "statue",
+    "name": "Statue",
+    "role": "feature"
+  },
+  {
+    "slug": "fountain",
+    "name": "Fountain",
+    "role": "feature"
+  },
+  {
+    "slug": "well",
+    "name": "Well",
+    "role": "feature"
+  }
+]

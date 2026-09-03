@@ -1,0 +1,22 @@
+{
+  "imp": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "quasit": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.5
+  },
+  "lemure": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "hell-hound": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "berserker",
+    "name": "Berserker",
+    "role": "brute"
+  },
+  {
+    "slug": "raider-barbarian",
+    "name": "Raider",
+    "role": "skirmisher"
+  },
+  {
+    "slug": "totem-warrior",
+    "name": "Totem Warrior",
+    "role": "support"
+  },
+  {
+    "slug": "barbarian-chieftain",
+    "name": "Chieftain",
+    "role": "leader"
+  }
+]

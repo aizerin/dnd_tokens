@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "minstrel",
+    "name": "Minstrel",
+    "role": "support"
+  },
+  {
+    "slug": "skald",
+    "name": "Skald",
+    "role": "warrior"
+  },
+  {
+    "slug": "court-bard",
+    "name": "Court Bard",
+    "role": "support"
+  },
+  {
+    "slug": "battle-bard",
+    "name": "Battle Bard",
+    "role": "controller"
+  }
+]

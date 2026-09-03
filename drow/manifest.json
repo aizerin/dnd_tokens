@@ -1,0 +1,6 @@
+[
+  {"slug": "drow-warrior", "name": "Drow Warrior", "role": "warrior"},
+  {"slug": "drow-scout", "name": "Drow Scout", "role": "scout"},
+  {"slug": "drow-mage", "name": "Drow Mage", "role": "mage"},
+  {"slug": "drow-priestess", "name": "Drow Priestess", "role": "priestess"}
+]

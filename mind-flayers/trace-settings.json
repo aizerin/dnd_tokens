@@ -1,0 +1,22 @@
+{
+  "mind-flayer": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 0.75
+  },
+  "mind-flayer-arcanist": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.5
+  },
+  "mind-flayer-psion": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 1.0
+  },
+  "ulitharid": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  }
+}

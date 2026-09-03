@@ -1,0 +1,22 @@
+{
+  "beholder": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "spectator": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "gauth": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.5
+  },
+  "death-tyrant": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  }
+}

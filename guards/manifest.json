@@ -1,0 +1,6 @@
+[
+  {"slug":"city-guard","name":"City Guard","role":"melee"},
+  {"slug":"guard-archer","name":"Guard Archer","role":"ranged"},
+  {"slug":"veteran-guard","name":"Veteran Guard","role":"elite"},
+  {"slug":"guard-captain","name":"Guard Captain","role":"leader"}
+]

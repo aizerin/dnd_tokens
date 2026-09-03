@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "swarm-of-rats",
+    "name": "Swarm of Rats",
+    "role": "swarm"
+  },
+  {
+    "slug": "swarm-of-bats",
+    "name": "Swarm of Bats",
+    "role": "swarm"
+  },
+  {
+    "slug": "swarm-of-insects",
+    "name": "Swarm of Insects",
+    "role": "swarm"
+  },
+  {
+    "slug": "swarm-of-ravens",
+    "name": "Swarm of Ravens",
+    "role": "swarm"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "beholder",
+    "name": "Beholder",
+    "role": "boss"
+  },
+  {
+    "slug": "spectator",
+    "name": "Spectator",
+    "role": "guardian"
+  },
+  {
+    "slug": "gauth",
+    "name": "Gauth",
+    "role": "controller"
+  },
+  {
+    "slug": "death-tyrant",
+    "name": "Death Tyrant",
+    "role": "boss"
+  }
+]

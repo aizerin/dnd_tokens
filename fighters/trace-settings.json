@@ -1,0 +1,22 @@
+{
+  "sword-shield-fighter": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "greatsword-fighter": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 1.0
+  },
+  "spear-fighter": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  },
+  "crossbow-fighter": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "wererat": {
+    "trace_size": 256,
+    "threshold": 175,
+    "simplify": 1.0
+  },
+  "wereboar": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.1
+  },
+  "werebear": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "jackalwere": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  }
+}

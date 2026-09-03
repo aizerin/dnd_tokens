@@ -1,0 +1,11 @@
+[
+  {"slug":"skeleton-warrior","name":"Skeleton Warrior","role":"melee"},
+  {"slug":"skeleton-archer","name":"Skeleton Archer","role":"ranged"},
+  {"slug":"zombie","name":"Zombie","role":"brute"},
+  {"slug":"ghoul","name":"Ghoul","role":"skirmisher"},
+  {"slug":"ghost","name":"Ghost","role":"spirit"},
+  {"slug":"wight","name":"Wight","role":"elite"},
+  {"slug":"mummy","name":"Mummy","role":"controller"},
+  {"slug":"vampire-spawn","name":"Vampire Spawn","role":"predator"},
+  {"slug":"necromancer","name":"Necromancer","role":"caster"}
+]

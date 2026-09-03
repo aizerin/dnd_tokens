@@ -1,0 +1,22 @@
+{
+  "generalist-wizard": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "elementalist-wizard": {
+    "trace_size": 256,
+    "threshold": 175,
+    "simplify": 1.0
+  },
+  "illusionist-wizard": {
+    "trace_size": 256,
+    "threshold": 175,
+    "simplify": 1.0
+  },
+  "diviner-wizard": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  }
+}

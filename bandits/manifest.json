@@ -1,0 +1,6 @@
+[
+  {"slug":"bandit","name":"Bandit","role":"skirmisher"},
+  {"slug":"bandit-archer","name":"Bandit Archer","role":"ranged"},
+  {"slug":"bandit-brawler","name":"Bandit Brawler","role":"brute"},
+  {"slug":"bandit-captain","name":"Bandit Captain","role":"leader"}
+]

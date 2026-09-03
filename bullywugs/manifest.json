@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "bullywug-spearman",
+    "name": "Bullywug Spearman",
+    "role": "warrior"
+  },
+  {
+    "slug": "bullywug-hunter",
+    "name": "Bullywug Hunter",
+    "role": "hunter"
+  },
+  {
+    "slug": "bullywug-chief",
+    "name": "Bullywug Chief",
+    "role": "leader"
+  },
+  {
+    "slug": "bullywug-shaman",
+    "name": "Bullywug Shaman",
+    "role": "shaman"
+  }
+]

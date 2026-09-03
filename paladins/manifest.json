@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "guardian-paladin",
+    "name": "Guardian Paladin",
+    "role": "defender"
+  },
+  {
+    "slug": "crusader-paladin",
+    "name": "Crusader Paladin",
+    "role": "brute"
+  },
+  {
+    "slug": "oathkeeper-paladin",
+    "name": "Oathkeeper Paladin",
+    "role": "support"
+  },
+  {
+    "slug": "avenger-paladin",
+    "name": "Avenger Paladin",
+    "role": "striker"
+  }
+]

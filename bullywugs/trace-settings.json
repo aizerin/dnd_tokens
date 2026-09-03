@@ -1,0 +1,22 @@
+{
+  "bullywug-spearman": {
+    "trace_size": 256,
+    "threshold": 160,
+    "simplify": 0.75
+  },
+  "bullywug-hunter": {
+    "trace_size": 320,
+    "threshold": 205,
+    "simplify": 1.0
+  },
+  "bullywug-chief": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 0.75
+  },
+  "bullywug-shaman": {
+    "trace_size": 256,
+    "threshold": 175,
+    "simplify": 1.0
+  }
+}

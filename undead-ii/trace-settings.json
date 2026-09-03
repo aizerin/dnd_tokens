@@ -1,0 +1,22 @@
+{
+  "crawling-claw": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "shadow": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.5
+  },
+  "specter": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "wraith": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 0.75
+  }
+}

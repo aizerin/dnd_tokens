@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "adult-brass-dragon",
+    "name": "Adult Brass Dragon",
+    "role": "boss"
+  },
+  {
+    "slug": "adult-bronze-dragon",
+    "name": "Adult Bronze Dragon",
+    "role": "boss"
+  },
+  {
+    "slug": "adult-copper-dragon",
+    "name": "Adult Copper Dragon",
+    "role": "boss"
+  },
+  {
+    "slug": "adult-gold-dragon",
+    "name": "Adult Gold Dragon",
+    "role": "boss"
+  },
+  {
+    "slug": "adult-silver-dragon",
+    "name": "Adult Silver Dragon",
+    "role": "boss"
+  }
+]

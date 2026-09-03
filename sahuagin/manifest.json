@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "sahuagin-raider",
+    "name": "Sahuagin Raider",
+    "role": "warrior"
+  },
+  {
+    "slug": "sahuagin-hunter",
+    "name": "Sahuagin Hunter",
+    "role": "hunter"
+  },
+  {
+    "slug": "sahuagin-champion",
+    "name": "Sahuagin Champion",
+    "role": "brute"
+  },
+  {
+    "slug": "sahuagin-priestess",
+    "name": "Sahuagin Priestess",
+    "role": "priestess"
+  }
+]

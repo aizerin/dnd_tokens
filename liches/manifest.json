@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "lich",
+    "name": "Lich",
+    "role": "boss"
+  },
+  {
+    "slug": "archlich",
+    "name": "Archlich",
+    "role": "boss"
+  },
+  {
+    "slug": "demilich",
+    "name": "Demilich",
+    "role": "boss"
+  },
+  {
+    "slug": "dracolich",
+    "name": "Dracolich",
+    "role": "boss"
+  }
+]

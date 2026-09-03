@@ -1,0 +1,22 @@
+{
+  "giant-eagle": {
+    "trace_size": 384,
+    "threshold": 145,
+    "simplify": 0.75
+  },
+  "giant-owl": {
+    "trace_size": 256,
+    "threshold": 130,
+    "simplify": 0.1
+  },
+  "giant-hyena": {
+    "trace_size": 256,
+    "threshold": 190,
+    "simplify": 0.75
+  },
+  "panther": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 1.0
+  }
+}

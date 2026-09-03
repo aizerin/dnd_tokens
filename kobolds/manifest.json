@@ -1,0 +1,6 @@
+[
+  {"slug":"kobold-warrior","name":"Kobold Warrior","role":"warrior"},
+  {"slug":"kobold-slinger","name":"Kobold Slinger","role":"ranged"},
+  {"slug":"kobold-trapper","name":"Kobold Trapper","role":"specialist"},
+  {"slug":"kobold-shaman","name":"Kobold Shaman","role":"spellcaster"}
+]

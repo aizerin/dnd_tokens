@@ -1,0 +1,6 @@
+[
+  {"slug":"mimic","name":"Mimic","role":"ambusher"},
+  {"slug":"owlbear","name":"Owlbear","role":"brute"},
+  {"slug":"basilisk","name":"Basilisk","role":"controller"},
+  {"slug":"rust-monster","name":"Rust Monster","role":"disruptor"}
+]

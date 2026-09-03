@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "poison-gas",
+    "name": "Poison Gas",
+    "role": "hazard"
+  },
+  {
+    "slug": "rolling-boulder",
+    "name": "Rolling Boulder",
+    "role": "hazard"
+  },
+  {
+    "slug": "cave-in",
+    "name": "Cave-In",
+    "role": "hazard"
+  },
+  {
+    "slug": "quicksand",
+    "name": "Quicksand",
+    "role": "hazard"
+  }
+]

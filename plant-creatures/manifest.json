@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "twig-blight",
+    "name": "Twig Blight",
+    "role": "minion"
+  },
+  {
+    "slug": "needle-blight",
+    "name": "Needle Blight",
+    "role": "ranged"
+  },
+  {
+    "slug": "vine-blight",
+    "name": "Vine Blight",
+    "role": "controller"
+  },
+  {
+    "slug": "awakened-tree",
+    "name": "Awakened Tree",
+    "role": "brute"
+  }
+]

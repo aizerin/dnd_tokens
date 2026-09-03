@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "fire-rune",
+    "name": "Fire Rune",
+    "role": "trap"
+  },
+  {
+    "slug": "frost-rune",
+    "name": "Frost Rune",
+    "role": "trap"
+  },
+  {
+    "slug": "lightning-rune",
+    "name": "Lightning Rune",
+    "role": "trap"
+  },
+  {
+    "slug": "binding-rune",
+    "name": "Binding Rune",
+    "role": "trap"
+  }
+]

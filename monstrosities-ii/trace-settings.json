@@ -1,0 +1,22 @@
+{
+  "cockatrice": {
+    "trace_size": 256,
+    "threshold": 130,
+    "simplify": 0.75
+  },
+  "harpy": {
+    "trace_size": 256,
+    "threshold": 145,
+    "simplify": 1.0
+  },
+  "centaur": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "hippogriff": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  }
+}

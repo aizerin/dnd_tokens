@@ -1,0 +1,22 @@
+{
+  "sahuagin-raider": {
+    "trace_size": 256,
+    "threshold": 130,
+    "simplify": 0.75
+  },
+  "sahuagin-hunter": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 1.0
+  },
+  "sahuagin-champion": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 0.75
+  },
+  "sahuagin-priestess": {
+    "trace_size": 384,
+    "threshold": 190,
+    "simplify": 1.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "herbalist-druid": {
+    "trace_size": 320,
+    "threshold": 160,
+    "simplify": 0.75
+  },
+  "shapeshifter-druid": {
+    "trace_size": 384,
+    "threshold": 190,
+    "simplify": 1.0
+  },
+  "forest-druid": {
+    "trace_size": 256,
+    "threshold": 205,
+    "simplify": 0.75
+  },
+  "archdruid": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  }
+}

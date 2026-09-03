@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "kuo-toa-warrior",
+    "name": "Kuo-toa Warrior",
+    "role": "warrior"
+  },
+  {
+    "slug": "kuo-toa-netter",
+    "name": "Kuo-toa Netter",
+    "role": "controller"
+  },
+  {
+    "slug": "kuo-toa-monitor",
+    "name": "Kuo-toa Monitor",
+    "role": "brute"
+  },
+  {
+    "slug": "kuo-toa-priest",
+    "name": "Kuo-toa Priest",
+    "role": "priest"
+  }
+]

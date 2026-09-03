@@ -1,0 +1,22 @@
+{
+  "swarm-of-rats": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "swarm-of-bats": {
+    "trace_size": 512,
+    "threshold": 150,
+    "simplify": 0.25
+  },
+  "swarm-of-insects": {
+    "trace_size": 256,
+    "threshold": 100,
+    "simplify": 0.75
+  },
+  "swarm-of-ravens": {
+    "trace_size": 256,
+    "threshold": 115,
+    "simplify": 0.75
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "generalist-wizard",
+    "name": "Generalist Wizard",
+    "role": "mage"
+  },
+  {
+    "slug": "elementalist-wizard",
+    "name": "Elementalist Wizard",
+    "role": "controller"
+  },
+  {
+    "slug": "illusionist-wizard",
+    "name": "Illusionist Wizard",
+    "role": "controller"
+  },
+  {
+    "slug": "diviner-wizard",
+    "name": "Diviner Wizard",
+    "role": "support"
+  }
+]

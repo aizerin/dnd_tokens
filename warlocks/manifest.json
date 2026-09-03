@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "fiend-pact-warlock",
+    "name": "Fiend Pact Warlock",
+    "role": "striker"
+  },
+  {
+    "slug": "fey-pact-warlock",
+    "name": "Fey Pact Warlock",
+    "role": "controller"
+  },
+  {
+    "slug": "eldritch-pact-warlock",
+    "name": "Eldritch Pact Warlock",
+    "role": "controller"
+  },
+  {
+    "slug": "hexblade-warlock",
+    "name": "Hexblade Warlock",
+    "role": "striker"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "dretch",
+    "name": "Dretch",
+    "role": "brute"
+  },
+  {
+    "slug": "manes",
+    "name": "Manes",
+    "role": "minion"
+  },
+  {
+    "slug": "spined-devil",
+    "name": "Spined Devil",
+    "role": "skirmisher"
+  },
+  {
+    "slug": "bearded-devil",
+    "name": "Bearded Devil",
+    "role": "warrior"
+  }
+]
